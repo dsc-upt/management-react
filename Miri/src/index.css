@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    padding: 10px 10vw;
+}
+
+.teamBox{
+    background: antiquewhite;
+    float: left;
+    margin-top: 20px;
+    width: 50vw;
+    height: 200px;
+}
